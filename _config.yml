@@ -1,12 +1,12 @@
 ######################################
 ## Site settings                    ##
 ######################################
-title:       Junior Theme
-email:       jonathon.bel.melbourne@gmail.com
-author:      Jonathon Belotti
-description: "A striking black-white Jekyll theme."
+title:       Rebeca
+email:       hello@rebeca.co.uk
+author:      Rebeca
+description: ""
 baseurl:     ""
-url:         "https://juniortheme.live/"
+url:         ""
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -40,7 +40,7 @@ show_workshops_section: true
 ## Disqus post comments             ##
 ## (leave blank to disable Disqus)  ##
 ######################################
-disqus_shortname: 'juniortheme-live'
+# disqus_shortname: 'juniortheme-live'
 
 ##########################################################################
 ## Facebook Comments plugin                                             ##
@@ -53,17 +53,19 @@ facebook_comments_number: 10
 ###################################
 ## Social icons                  ##
 ###################################
-github_username: thundergolfer
+github_username:
+instagram_username: rebecawriter
+facebook_username: rebecawriter
 bitbucket_username:
 stackoverflow_id:
-twitter_username: jonobelotti_io
+twitter_username:
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username: jonathonbelotti
+linkedin_username:
 angellist_username:
-medium_id: thundergolfer
-youtube_channel_id: UCSP7fMKwmaXaZhViAV2Vgvg
+medium_id:
+youtube_channel_id: 
 bitcoin_url:
 paypal_url:
 flattr_button:
@@ -75,13 +77,13 @@ show_sharing_icons: True
 # Change to 'true' to enable individual icons
 share_facebook: True
 share_twitter: True
-share_googleplus: True
+share_googleplus: false
 share_linkedin: false
 share_digg: false
 share_tumblr: false
 share_reddit: True
 share_stumbleupon: false
-share_hackernews: True
+share_hackernews: false
 
 text:
   pagination:
@@ -124,6 +126,7 @@ redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data', 'footnotes']
 permalink:    pretty
 paginate:     4
+paginate_path: "/blog/page:num/"
 sass:
   compressed: true
 plugins:

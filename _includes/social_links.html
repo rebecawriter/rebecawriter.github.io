@@ -9,10 +9,18 @@
     {% if site.stackoverflow_id %}
       <a class="fa fa-stack-overflow" href="https://stackoverflow.com/users/{{ site.stackoverflow_id }}"target="_blank"></a>
     {% endif %}
-    <a class="fa fa-rss" href="{{ "/feed.xml" | prepend: site.baseurl }}"target="_blank"></a>
+    <!-- <a class="fa fa-rss" href="{{ "/feed.xml" | prepend: site.baseurl }}"target="_blank"></a> -->
     {% if site.twitter_username %}
       <a class="fa fa-twitter" href="https://twitter.com/{{ site.twitter_username }}"target="_blank"></a>
     {% endif %}
+    {% if site.instagram_username %}
+      <a class="fa fa-instagram" href="https://instagram.com/{{ site.instagram_username }}"target="_blank"></a>
+    {% endif %}
+
+    {% if site.facebook_username %}
+      <a class="fa fa-facebook" href="https://facebook.com/{{ site.facebook_username }}"target="_blank"></a>
+    {% endif %}
+
     {% if site.skype_username %}
       <a class="fa fa-skype" href="skype:{{ site.skype_username }}?userinfo"target="_blank"></a>
     {% endif %}

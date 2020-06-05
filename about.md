@@ -1,33 +1,39 @@
 ---
 layout: about
-title: About Me
+title: About
+title_diff: About Rebeca
 permalink: /about/
 tags: about
 flicker: true
-headshot: /images/headshot.jpg
+headshot: /images/bec.jpg
+meta_summary: I’m Rebeca, a freelance writer in Edinburgh. I produce sparkling copy for agencies and small businesses. Learn more about me on this page.
 ---
 
-I am a Software Engineering student at [RMIT University](https://www.rmit.edu.au/) in Melbourne. Starting November 2016 I will be interning with [Zendesk](https://www.zendesk.com/) in a Data Engineering role.
+Welcome! I’m glad you stopped by.
 
-I'm currently doing a lot of work building developer communities around my University. I'll chase any opportunity to improve collaboration and outreach in the tech. industry.
+Make yourself at home, but please, leave your shoes at the door; I’ve just had new carpets fitted.
 
-My main areas of interest are in NLP, Agent-Oriented Programming, and Computational Dialectics.
+**I’m Rebeca,** a freelance writer. From my little flat in Edinburgh, I produce sparkling copy for agencies and small businesses.   
 
-{% if site.show_talks_section %}
-## Talks
+**Before I set up my home office,** I worked for three years at a PR and digital marketing agency. I’ve developed impactful copy and campaigns for businesses across all sorts of industries, including:
 
-- Put something here!
-{% endif %}
+<center>Education / Food and drink / Tourism / Public Sector / Construction</center>
 
-{% if site.show_workshops_section %}
-## Workshops
+<br>**When you work with me,** you can expect purposeful, reflective and responsibly written content. Phoning it in is not my style. **I want to deliver work that we can both be proud of.**
 
-- Put something here!
-{% endif %}
+**Before I press send** on a writing project, I ask myself three questions.
 
+- **Is it useful?** <br>Even the most beautifully written copy is useless if it doesn’t function as it should. I reflect on whether the work truly supports your goal. If not, it’s back to the old drawing board.
 
-<style>
-.post-header, #talks, #workshops {
-  text-align: center; /* Want the About Page header to be in the middle */
-}
-</style>
+- **Is it simple?** <br>Although I adapt my tone and style to each brand, I aim for simplicity in all my writing. Why make customers wade through words to understand your message?
+
+- **Does it sparkle?** <br>After a few rounds of edits, I go back in with my glitter pen to make sure the work isn’t just good; it’s extra special.
+
+**I’d love to work with you.** Do you feel the same? Learn about the [services]({{ site.baseurl }}/freelance-writer-edinburgh ) I offer (and my competitive rates).
+
+You can also use my [contact page]({{ site.baseurl }}/contact) to get in touch. I’ll do my best to quickly respond<span class = "asterisks">*</span>.
+
+<span class = "asterisksnote"><span class = "asterisks">*</span>If I don’t respond immediately, please assume that I’m busy doing something heroic like rescuing a cat from a tree or defending the city against a large reptilian creature.</span>
+
+<br><br><br>
+[Website credits]({{ site.baseurl }}/credits)

@@ -1,36 +1,46 @@
+<style>
+
+.navigation {
+  /*font-family: 'Muli', sans-serif;*/
+  font-family: 'Rubik', sans-serif;
+}
+
+</style>
+
 <ul id="main-menu" data-nav-showing="false" style="transform: translate(0%, -116%) matrix(1, 0, 0, 1, 0, 0);">
   <!-- <li class="nav-jr home-anc"><h4><a href="#home"><br></a></h4></li> -->
   <div class="flexbox-parent">
     <div class="flexbox-child">
       <li class="about-anc">
-        <h4><a class="nav-underline home" href="{{site.url}}">Home</a></h4></li>
-      {% for page in site.pages %}
-        {% if page.tags contains "about" %}
-          <li class="about-anc">
-            <h4><a class="nav-underline about" href="{{page.url}}">{{page.title}}</a></h4></li>
-        {% endif %}
-        {% if page.tags contains "contact" %}
-          <li class="expertise-anc">
-            <h4><a class="nav-underline contact" href="{{page.url}}">{{page.title}}</a></h4></li>
-        {% endif %}
-        {% if page.tags contains "portfolio" %}
-          <li class="team-anc">
-            <h4><a class="nav-underline portfolio" href="{{page.url}}">{{page.title}}</a></h4></li>
-        {% endif %}
-        {% if page.tags contains "projects" %}
-          <li class="beliefs-anc">
-            <h4><a class="nav-underline open-source" href="{{page.url}}">{{page.title}}</a></h4></li>
-        {% endif %}
-        {% if page.tags contains "resume" %}
-          <li class="beliefs-anc">
-            <h4><a class="nav-underline resume" href="{{page.url}}">{{page.title}}</a></h4></li>
-        {% endif %}
-      {% endfor %}
-          <li>
-          {% if site.show_social_icons %}
-            {% include social_links.html %}
-          {% endif %}
-          </li>
+        <h4 class = "navigation"><a class="nav-underline home" href="{{site.url}}">Home</a></h4>
+      </li>
+
+      <li class="about-anc">
+        <h4 class = "navigation"><a class="nav-underline about" href="{{site.url}}/about">About</a></h4>
+      </li>
+
+      <li class="team-anc">
+        <h4 class = "navigation"><a class="nav-underline portfolio" href="{{site.url}}/freelance-writer-edinburgh">Services</a></h4>
+      </li>
+
+      <!--<li class="beliefs-anc">
+        <h4 class = "navigation"><a class="nav-underline open-source" href="{{site.url}}/testimonials">Testimonials</a></h4>
+      </li>-->
+
+      <li class="beliefs-anc">
+        <h4 class= "navigation"><a class="nav-underline resume" href="{{site.url}}/blog">Blog</a></h4>
+      </li>
+
+      <li class="expertise-anc">
+        <h4 class = "navigation"><a class="nav-underline contact" href="{{site.url}}/contact">Contact</a></h4>
+      </li>
+
+      <li>
+      {% if site.show_social_icons %}
+        {% include social_links.html %}
+      {% endif %}
+      </li>
+
   </div>
 </ul>
 <!--
