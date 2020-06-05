@@ -18,5 +18,3 @@ fields:
 - type: text
   name: categories
   label: categories
-pages:
-- _posts/test.md
