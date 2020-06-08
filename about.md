@@ -18,7 +18,7 @@ Make yourself at home; I’ll put the kettle on*.
 
 **Before I set up my home office,** I worked for three years at a PR and digital marketing agency. I’ve developed impactful copy and campaigns for businesses across many industries, including:
 
-<center>Education / Food and drink / Tourism / Public Sector / Construction</center>
+<center>Education **/** Food and drink **/** Tourism **/** Public Sector **/** Construction</center>
 
 **My content** helps your customers better connect with your business. I offer several **services**, including content for social media, websites and blogs.
 
@@ -26,11 +26,14 @@ Make yourself at home; I’ll put the kettle on*.
 
 **Before I press send** on a writing project, I ask myself three questions.
 
-<center>**Is it useful?** <br>Even the most beautiful copy is useless if it doesn’t function as it should. I reflect on whether the work truly supports your goal. If not, it’s back to the old drawing board.
+### Is it useful?   
+<br>Even the most beautiful copy is useless if it doesn’t function as it should. I reflect on whether the work truly supports your goal. If not, it’s back to the old drawing board.
 
-**Is it simple?** <br> Whilst I adapt my tone and style to each brand, I aim for simplicity in all my writing. Why make customers wade through words to understand your message?
+### **Is it simple?**   
+<br> Whilst I adapt my tone and style to each brand, I aim for simplicity in all my writing. Why make customers wade through words to understand your message?
 
-**Does it sparkle?** <br> After a few rounds of edits, I go back in with my glitter pen to make sure the work isn’t just good; it’s extra special. </center>
+### **Does it sparkle?**   
+<br> After a few rounds of edits, I go back in with my glitter pen to make sure the work isn’t just good; it’s extra special. 
 
 **I’d love to work with you.** Do you feel the same? Learn about the [services]({{ site.baseurl }}/freelance-writer-edinburgh ) I offer (and my competitive rates).
 
