@@ -9,9 +9,9 @@ meta_description: Need the help of a friendly freelance writer in Edinburgh? I�
 
 ---
 **You’re** searching for a freelance writer in Edinburgh.  
- **I am** a freelance writer in Edinburgh.   
-   
- **The stars have aligned.** What are we waiting for? Let’s do this!
+**I am** a freelance writer in Edinburgh.
+
+**The stars have aligned.** What are we waiting for? Let’s do this!
 
 I provide a whole host of **professional writing services** for agencies and small businesses. Check out my full list of services a little further down this page.
 
@@ -92,7 +92,7 @@ Grammar diligence, spelling vigilance and general sense-checking…gence.
 If you require a writing-related service that’s not mentioned here, I can probably help. Just shoot me a [quick message.]({{ site.baseurl }}/contact)
 
 <br>
-Got a project you’d like me to work on? Great!
+**Got a project you’d like me to work on?** Great!
 [Get in touch]({{ site.baseurl }}/contact) with me to tell me how I can help.
 
 <span class= "asterisksnote"><span class = "asterisks">*</span>_'Signage’ is quite an ugly word, don’t you think? It’s up there with ‘cluster’ and ‘Slough’ for me._</span>
