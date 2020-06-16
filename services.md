@@ -1,7 +1,7 @@
 ---
 layout: page_nice
 title: Freelance writer in Edinburgh
-title_diff: Services
+title_diff: Services.
 tags: services
 permalink: "/freelance-writer-edinburgh/"
 meta_description: Need the help of a friendly freelance writer in Edinburgh? I’m only
@@ -53,17 +53,11 @@ Words that move your audience to action.
 
 Click-worthy copy to boost your visibility and increase sales.
 
-## PR
-
-### Press releases
-
-Exciting updates from your company in media-friendly form.
-
-### Op-eds/Thought leadership articles
-
-Thought-provoking pieces to cement your position as an industry expert.
-
 ## Offline Marketing
+
+### Signage<span class= "asterisks">*</span>
+
+Attention-grabbing displays for events and shop fronts.
 
 ### Brochures
 
@@ -77,9 +71,17 @@ Page-turning articles that make your employees proud to be part of your team.
 
 Promotional materials to be treasured, not trashed.
 
-### Signage<span class= "asterisks">*</span>
+<span class= "asterisksnote"><span class = "asterisks">*</span>_'Signage’ is quite an ugly word, don’t you think? It’s up there with ‘cluster’ and ‘Slough’ for me._</span>
 
-Attention-grabbing displays for events and shop fronts.
+## PR
+
+### Press releases
+
+Exciting updates from your company in media-friendly form.
+
+### Op-eds/Thought leadership articles
+
+Thought-provoking pieces to cement your position as an industry expert.
 
 ## Other
 
@@ -94,5 +96,3 @@ If you require a writing-related service that’s not mentioned here, I can prob
 <br>
 **Got a project you’d like me to work on?** Great!
 [Get in touch]({{ site.baseurl }}/contact) with me to tell me how I can help.
-
-<span class= "asterisksnote"><span class = "asterisks">*</span>_'Signage’ is quite an ugly word, don’t you think? It’s up there with ‘cluster’ and ‘Slough’ for me._</span>
