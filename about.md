@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-title_diff: About Rebeca
+title_diff: About Rebeca.
 permalink: "/about/"
 tags: about
 flicker: true
@@ -45,5 +45,4 @@ You can also use my [contact page]({{ site.baseurl }}/contact) to get in touch. 
 
 <center><iframe src="https://giphy.com/embed/rR22E1Lkea2Yw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></center>
 
-<br><br><br>
-[Website credits]({{ site.baseurl }}/credits)
+<br><br><br><br><br>[Website credits]({{ site.baseurl }}/credits)
