@@ -1,21 +1,28 @@
+<!-- Flexslider Scripts
+=================================================-->
+	<!-- Google CDN Hosted jQuery  -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+	<!-- Flexslider Library  -->
+	<script src="/js/flexslider/jquery.flexslider-min.js"></script>
+	<!-- Initialisation Code  -->
+	<script src="/js/app.js"></script>
+
+
+
 <footer class="center">
   <div class="desktop-footer">
     <div class="footer-each">
-      <h5 class = "navigation">
-        <a href="https://www.google.com/maps/place/Edinburgh/" target="_blank">
-          <span>Edinburgh</span><br><span>Scotland</span>
-        </a>
-      </h5>
+      <!--<h5 class = "navigation"><a href="tel:+447738557669"><span>07738 557 669</span></a></h5>-->
+      <h5 class = "navigation"><a class="fa fa-phone" href="tel:+447738557669" target="_blank"></a></h5>
     </div>
     <div class="footer-each">
-      <h5 class = "navigation"><a href="tel:+447738557669"><span>+44 77</span><br><span>3855 7669</span></a></h5>
+      <h5 class = "navigation"><a class="fa fa-envelope" href="mailto:{{ site.email }}"target="_blank"></a></h5>
     </div>
     <div class="footer-each">
-      <h5 class = "navigation"><a href="mailto:hello@rebeca.co.uk"><span>hello</span><br><span>@rebeca</span><br><span>.co.uk</span></a></h5>
+      <h5 class = "navigation"><a class="fa fa-instagram" href="https://instagram.com/{{ site.instagram_username }}"target="_blank"></a></h5>
     </div>
     <div class="footer-each">
-      <h5 class = "navigation"><a href="https://instagram.com/{{site.instagram_username}}" target="_blank" alt="Instagram"><span>Instagram</span></a></h5>
-      <h5 class = "navigation"><a href="https://facebook.com/{{site.facebook_username}}" target="_blank" alt="Facebook"><span>Facebook</span></a></h5>
+      <h5 class = "navigation"><a class="fa fa-linkedin" href="https://www.linkedin.com/in/{{ site.linkedin_username }}"target="_blank"></a></h5>
       <!--<h5><a href="https://github.com/thundergolfer" target="_blank" alt="Github"><span>Github</span></a></h5>
       <h5><a href="https://twitter.com/jonobelotti_IO" target="_blank" alt="Twitter"><span>Twitter</span></a></h5>-->
     </div>
@@ -53,7 +60,7 @@ footer /*.desktop-footer*/ .footer-each {
     float: left;
     display: block;
     margin-right: 4%;
-    width: 14.70196%;
+    width: 20%;
 }
 
 footer .desktop-footer {
@@ -68,7 +75,7 @@ footer .desktop-footer {
 footer .footer-each a {
   text-decoration: none;
   background-image: none;
-  color: #000;
+  color: #D9AE94;
   font-weight: 300;
   word-wrap: normal;
 }
@@ -91,7 +98,7 @@ footer .footer-each a:active, footer .footer-each a:hover {
     bottom: 0;
     left: 0;
     width: 100%;
-    border-bottom: 2px solid #000;
+    border-bottom: 2px solid #D9AE94;
     transition: .4s;
     -webkit-transform: scaleX(1);
     transform: scaleX(1);

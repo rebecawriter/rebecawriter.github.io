@@ -14,7 +14,7 @@ Welcome! I’m glad you stopped by.
 
 Make yourself at home; I’ll put the kettle on<span class = "asterisks">*</span>.
 
-**I’m Rebeca,** a freelance writer. From my little flat in Edinburgh, I produce sparkling copy for agencies and small businesses.
+**I’m Rebeca Moss,** a freelance writer. From my little flat in Edinburgh, I produce sparkling copy for agencies and small businesses.
 
 **Before I set up my home office,** I worked for three years at a PR and digital marketing agency. I’ve developed impactful copy and campaigns for businesses across many industries, including:
 
