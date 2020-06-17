@@ -19,7 +19,7 @@ Just so you know, I’m first and foremost a writer, but I’m also an **experie
 
 If your project would benefit from **further creative or technical support**, I’ll happily delve into my contact list to source a talented graphic designer, photographer, web developer, photographer or PPC expert.
 
-I charge on a project-by-project basis, but as a rule of thumb, **my hourly rate** is £25. I also charge a £10 charitable fee per project, which, together with 5% of all revenue, will be donated to social justice organisations in the UK.
+I charge on a project-by-project basis, but as a rule of thumb, **my hourly rate** is £25. I donate 5% of all revenue to social justice organisations in the UK.
 
 **If you’re interested in working with me**, [get in touch]({{ site.baseurl }}/contact) to discuss your project.
 
