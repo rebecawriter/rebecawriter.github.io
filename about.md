@@ -43,6 +43,6 @@ You can also use my [contact page]({{ site.baseurl }}/contact) to get in touch. 
 
 <br><span class = "asterisksnote"><span class = "asterisks">*</span>Kettle’s boiled. Here’s your virtual cup of tea:</span>
 
-<center><iframe src="https://giphy.com/embed/rR22E1Lkea2Yw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></center>
+<center><iframe src="https://giphy.com/embed/rR22E1Lkea2Yw" width="384" height="216" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></center>
 
 <br><br><br><br><br>[Website credits]({{ site.baseurl }}/credits)
