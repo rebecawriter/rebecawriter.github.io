@@ -1,23 +1,20 @@
-- name: BLOG_CH
-  link: https://www.campionhomes.com/blog/best-dog-walks-in-fife/
+- name: 1_BLOG_TM
+  link: /blog-case-study-1
 
-- name: BLOG_TM
-  link: https://www.taymouthmarina.com/sauna-benefits/
+- name: 2_BLOG_CH
+  link: /blog-case-study-2
 
-- name: BLOG_ILF
-  link: https://ilf.scot/blog-post/how-do-i-apply-to-the-ilf-scotland-transition-fund/
+- name: 3_BLOG_ILF
+  link: /blog-case-study-3
 
-- name: EDIT_GH
-  link: https://www.tes.com/news/how-schools-can-boost-students-mental-wellbeing
+- name: 1_EDIT_GH
+  link: /editorial-case-study-1
 
-- name: EDIT_ILF
-  link: https://www.irishnews.com/lifestyle/2020/02/27/news/arbitrary-cash-cut-off-means-more-disadvantage-for-some-disabled-people-in-the-north-1850666/
+- name: 2_EDIT_ILF
+  link: /editorial-case-study-2
 
-- name: EDIT_MP
-  link: https://www.heraldscotland.com/opinion/18320357.agenda-giving-child-quality-education-home/
-
-- name: EDIT_NWM
-  link: https://www.scottishfield.co.uk/travel/scotland-travel/10-things-you-may-not-know-about-the-wallace-monument/
+- name: 3_EDIT_MP
+  link: /editorial-case-study-3
 
 - name: WEB_MP
-  link: https://www.montessoripartnership.com/
+  link: 

@@ -19,7 +19,7 @@ Make yourself at home; I’ll put the kettle on<span class = "asterisks">*</span
 **Before I set up my home office,** I worked for three years at a PR and digital marketing agency. I’ve developed impactful copy and campaigns for businesses across many industries, including:
 
 <center>Education <strong>/</strong> Food and drink <strong>/</strong> Tourism <strong>/</strong> Public Sector <strong>/</strong> Construction</center><br>
-**My content** helps your customers better connect with your business. I offer several [services]({{ site.baseurl }}/freelance-writer-edinburgh ), including content for social media, websites and blogs.
+**My content** helps your customers better connect with your business. I offer several [services]({{ site.baseurl }}/freelance-writer-edinburgh ), including content for social media, websites and blogs. Check out some examples of my [work]({{ site.baseurl }}/work).
 
 **When you work with me,** you can expect purposeful, reflective and caringly written content. **I want to deliver work that we can both be proud of.**
 

@@ -13,13 +13,13 @@ meta_description: Need the help of a friendly freelance writer in Edinburgh? I�
 
 **The stars have aligned.** What are we waiting for? Let’s do this!
 
-I provide a whole host of **professional writing services** for agencies and small businesses. Check out my full list of services a little further down this page.
+I provide a whole host of **professional writing services** for agencies and small businesses. Check out my full list of services a little further down this page, or take a look at some examples of my [work]({{ site.basurl }}/work).
 
 Just so you know, I’m first and foremost a writer, but I’m also an **experienced digital and social media marketer**, and I know my way around Adobe Suite.
 
 If your project would benefit from **further creative or technical support**, I’ll happily delve into my contact list to source a talented graphic designer, photographer, web developer, photographer or PPC expert.
 
-I charge on a project-by-project basis, but as a rule of thumb, **my hourly rate** is £25. I donate 5% of all revenue to social justice organisations in the UK.
+I charge on a project-by-project basis, but as a rule of thumb, **my hourly rate** is £25.
 
 **If you’re interested in working with me**, [get in touch]({{ site.baseurl }}/contact) to discuss your project.
 

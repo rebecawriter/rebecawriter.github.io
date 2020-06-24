@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 {% if page.title_diff %}
 <div class="post-header mb2">
   <h1>{{ page.title_diff }}</h1>
@@ -15,12 +16,10 @@ layout: default
   {{ content }}
 </article>
 
-{% if page.home_button %}
-<a href = "../">
-<div class="circle-button" style="padding-top: 3%;">
-    <div class="top-circle" data-sr-id="80" style="; visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; ">
-      <img src = "{{ site.url }}/images/logos/home.png" >
-    </div>
-</div>
+{% if page.back_button %}
+<center>
+<a href = "javascript:history.back()">
+  <img src = "{{ site.url }}/images/logos/back.png" style = "width: 20%;" >
 </a>
+</center>
 {% endif%}
