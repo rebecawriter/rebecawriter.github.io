@@ -23,19 +23,13 @@ I can help you to reach new customers online and retain existing ones, using pur
 
 <div class="flexslider">
   <ul class="slides">
-    {% for image in site.static_files %}
-    {% if image.path contains 'blog-examples' %}
+    {% for image in site.data.images %}
+    {% if image.name contains 'blog-examples' %}
       <li>
-      {% assign link = '#' %}
-      {% for im_data in site.data.images %}
-      {% if image.name contains im_data.name %}
-        {% assign link = im_data.link %}
-      {% endif %}
-      {% endfor %}
-      <a href="{{ link }}">
-        <img src="{{ image.path }}" alt=""
+      {% if image.link %}<a href="{{ image.link }}">{% endif %}
+        <img src="{{ site.baseurl }}/{{ image.name }}.png" alt=""
              data-name="{{ image.name }}">
-      </a>
+      {% if image.link %}</a>{% endif %}
       </li>
     {% endif %}
     {% endfor %}
@@ -51,22 +45,16 @@ I can ghost-write op-eds that deliver your arguments with gravitas. If you’d l
 
 <div class="flexslider">
   <ul class="slides">
-    {% for image in site.static_files %}
-    {% if image.path contains 'editorial-examples' %}
-      <li>
-      {% assign link = '#' %}
-      {% for im_data in site.data.images %}
-      {% if image.name contains im_data.name %}
-        {% assign link = im_data.link %}
-      {% endif %}
-      {% endfor %}
-      <a href="{{ link }}">
-        <img src="{{ image.path }}" alt=""
-             data-name="{{ image.name }}">
-      </a>
-      </li>
-    {% endif %}
-    {% endfor %}
+  {% for image in site.data.images %}
+  {% if image.name contains 'editorial-examples' %}
+    <li>
+    {% if image.link %}<a href="{{ image.link }}">{% endif %}
+      <img src="{{ site.baseurl }}/{{ image.name }}.png" alt=""
+           data-name="{{ image.name }}">
+    {% if image.link %}</a>{% endif %}
+    </li>
+  {% endif %}
+  {% endfor %}
   </ul>
 </div>
 <center> <span class= "asterisksnote">Click the images to learn more.</span> </center>
@@ -77,22 +65,16 @@ I can make sure your website performs the way you want it to, with enticing copy
 
 <div class="flexslider">
   <ul class="slides">
-    {% for image in site.static_files %}
-    {% if image.path contains 'website-examples' %}
-      <li>
-      {% assign link = '#' %}
-      {% for im_data in site.data.images %}
-      {% if image.name contains im_data.name %}
-        {% assign link = im_data.link %}
-      {% endif %}
-      {% endfor %}
-
-        <img src="{{ image.path }}" alt=""
-             data-name="{{ image.name }}">
-
-      </li>
-    {% endif %}
-    {% endfor %}
+  {% for image in site.data.images %}
+  {% if image.name contains 'website-examples' %}
+    <li>
+    {% if image.link %}<a href="{{ image.link }}">{% endif %}
+      <img src="{{ site.baseurl }}/{{ image.name }}.png" alt=""
+           data-name="{{ image.name }}">
+    {% if image.link %}</a>{% endif %}
+    </li>
+  {% endif %}
+  {% endfor %}
   </ul>
 </div>
 
