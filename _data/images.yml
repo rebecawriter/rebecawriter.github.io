@@ -1,19 +1,19 @@
-- name: images/blog-examples/1_BLOG_TM
+- name: images/blog-examples/1_BLOG_TM.jpg
   link: /blog-case-study-1
 
-- name: images/blog-examples/2_BLOG_CH
+- name: images/blog-examples/2_BLOG_CH.jpg
   link: /blog-case-study-2
 
-- name: images/blog-examples/3_BLOG_ILF
+- name: images/blog-examples/3_BLOG_ILF.jpg
   link: /blog-case-study-3
 
-- name: images/editorial-examples/1_EDIT_GH
+- name: images/editorial-examples/1_EDIT_GH.jpg
   link: /editorial-case-study-1
 
-- name: images/editorial-examples/2_EDIT_ILF
+- name: images/editorial-examples/2_EDIT_ILF.jpg
   link: /editorial-case-study-2
 
-- name: images/editorial-examples/3_EDIT_MP
+- name: images/editorial-examples/3_EDIT_MP.jpg
   link: /editorial-case-study-3
 
-- name: images/website-examples/WEB_MP
+- name: images/website-examples/WEB_MP.png

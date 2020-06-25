@@ -2,7 +2,7 @@
 layout: case-study
 permalink: /blog-case-study-1
 title: Blog 1
-image_src: "images/blog-examples/1_BLOG_TM.png"
+image_src: "images/blog-examples/1_BLOG_TM.jpg"
 back_button: true
 meta_robots: noindex
 ---

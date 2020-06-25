@@ -27,7 +27,7 @@ I can help you to reach new customers online and retain existing ones, using pur
     {% if image.name contains 'blog-examples' %}
       <li>
       {% if image.link %}<a href="{{ image.link }}">{% endif %}
-        <img src="{{ site.baseurl }}/{{ image.name }}.png" alt=""
+        <img src="{{ site.baseurl }}/{{ image.name }}" alt=""
              data-name="{{ image.name }}">
       {% if image.link %}</a>{% endif %}
       </li>
@@ -49,7 +49,7 @@ I can ghost-write op-eds that deliver your arguments with gravitas. If you’d l
   {% if image.name contains 'editorial-examples' %}
     <li>
     {% if image.link %}<a href="{{ image.link }}">{% endif %}
-      <img src="{{ site.baseurl }}/{{ image.name }}.png" alt=""
+      <img src="{{ site.baseurl }}/{{ image.name }}" alt=""
            data-name="{{ image.name }}">
     {% if image.link %}</a>{% endif %}
     </li>
@@ -69,7 +69,7 @@ I can make sure your website performs the way you want it to, with enticing copy
   {% if image.name contains 'website-examples' %}
     <li>
     {% if image.link %}<a href="{{ image.link }}">{% endif %}
-      <img src="{{ site.baseurl }}/{{ image.name }}.png" alt=""
+      <img src="{{ site.baseurl }}/{{ image.name }}" alt=""
            data-name="{{ image.name }}">
     {% if image.link %}</a>{% endif %}
     </li>

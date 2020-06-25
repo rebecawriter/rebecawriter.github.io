@@ -2,7 +2,7 @@
 layout: case-study
 permalink: /editorial-case-study-2
 title: Edit 2
-image_src: "images/editorial-examples/2_EDIT_ILF.png"
+image_src: "images/editorial-examples/2_EDIT_ILF.jpg"
 back_button: true
 meta_robots: noindex
 ---

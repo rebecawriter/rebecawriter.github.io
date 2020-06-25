@@ -2,7 +2,7 @@
 layout: case-study
 permalink: /blog-case-study-3
 back_button: true
-image_src: "images/blog-examples/3_BLOG_ILF.png"
+image_src: "images/blog-examples/3_BLOG_ILF.jpg"
 meta_robots: noindex
 ---
 This blog was written for a public sector organisation that helps disabled people lead more independent lives. They wanted more young people to apply for funding but were concerned that the application process was too confusing.
