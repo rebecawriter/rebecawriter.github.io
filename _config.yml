@@ -138,6 +138,3 @@ exclude: [vendor]
 #################################################
 ## Collections (for 'Design' section of site)  ##
 #################################################
-collections:
-  portfolio:
-    output: true
