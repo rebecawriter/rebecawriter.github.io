@@ -10,7 +10,7 @@ meta_description: Want the proof? Here’s the pudding. Browse this page to see 
 ---
 Want the proof? **Here’s the pudding.**
 
-Browse this page to see examples of projects I’ve worked on<span class = "asterisks">_</span>. <!--_ -->
+Browse this page to see examples of projects I’ve worked on<span class = "asterisks">*</span>. <!--* -->
 
 **If you’d like to know more about these projects**, or see further examples of my work, [just ask]({{ site.basurl }}/contact)<span class = "asterisks">**</span>. <!--** -->
 
