@@ -23,7 +23,7 @@ For a content marketing strategy to work, the content itself needs to be captiva
 
 If your blogs aren’t being read, don’t despair. Here are some simple tips on how to write better blog posts. Follow these steps and you’ll have readers devouring your blogs in no time.
 
-![](/images/info1.png)
+![How to write better blog posts infographic](/images/info1.png "How to write better blog posts infographic")
 
 ### **Purpose**
 
