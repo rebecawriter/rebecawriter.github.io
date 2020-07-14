@@ -29,7 +29,7 @@ If your blogs aren’t being read, don’t despair. Here are some simple tips on
 
 Before you start clacking away at that keyboard, spend some time defining the purpose of your blog. It will help to refine your writing and will make the reading experience more enjoyable.
 
-![](/images/asset-1.png)
+![](/images/asset-10.png)
 
 Take this particular blog as an example. Its purpose is to tell you that a) I understand how to write a good blog post, and b) you should [hire me](https://www.rebeca.co.uk/contact/) to write your blogs. Sneaky, eh?
 
