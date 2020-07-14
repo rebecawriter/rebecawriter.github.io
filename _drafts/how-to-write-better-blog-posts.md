@@ -49,7 +49,7 @@ When you’ve finished writing, check back over your blog post and make sure eac
 
 If your sole goal is to rank highly for a particular keyword, then you’re probably not thinking about the value you’re offering your reader.
 
-![](/images/asset-9.png)
+![How to write better blog posts](/images/asset-9.png "Value")
 
 Think of your content marketing strategy as an exchange. You want visitors to stay on your website, so you’ve got to give them something that they want in return.
 
@@ -61,7 +61,7 @@ If your blog post is genuinely valuable, your readers will be more receptive to 
 
 Nobody likes a lecture, not even people attending an actual lecture.
 
-![](/images/asset-3.png)
+![How to write better blog posts](/images/asset-3.png "Clarity")
 
 Most of your readers are likely on their lunch break, on public transport or on the toilet*. Hardly the right time to be wading through dense blocks of text.
 
@@ -73,7 +73,7 @@ _*That’s right, I clock­­­ed you. Don’t forget to flush._
 
 Harken back to moments ago when I made that excellent point about clarity. That doesn’t mean ‘write like a robot’. Even if your topic is fairly technical or dry (e.g. ‘how to write better blog posts’), you can still inject a bit of personality to keep your reader interested.
 
-![](/images/asset-4.png)
+![How to write better blog posts](/images/asset-4.png "Personality")
 
 Now, that’s not to say that every business should use their blog posts as an opportunity to make toilet jokes, that’s just immature. Even if your business has a highly professional image, however, you can still bring a warmth and friendliness to your blogs.
 
@@ -83,7 +83,7 @@ In the simplest terms, if people enjoy your writing, they’ll want to read more
 
 You know that worrisomely high bounce rate you’ve got there? That’s from users scanning your blog and deciding instantly that it doesn’t contain what they’re looking for. People very quickly skim read blog content and if they think it’s relevant, they’ll stick around to read the rest.
 
-![](/images/asset-5.png)
+![How to write better blog posts](/images/asset-5.png "Subheadings")
 
 You’re the flustered young screenwriter, your readers are the busy movie exec – you’ve got about fifteen seconds to persuade them that your blog has got the goods, baby. That’s where subheadings come in. They’re your elevator pitch.
 
@@ -95,7 +95,7 @@ Incidentally, ‘subheadings’ is a pretty good subheading for a point about su
 
 Blog posts can vary in length, but the sweet spot tends to be between 500 – 1000 words. That’s long enough to offer value and short enough not to overwhelm the reader.
 
-![](/images/asset-6.png)
+![How to write better blog posts](/images/asset-6.png "Length")
 
 A lot of people are searching online for quick answers, so they’ll usually stick with blogs that are more concise.
 
@@ -107,7 +107,7 @@ This particular blog post is 917 words in length. You can count if you want.
 
 If your readers have made it to the end of your blog, it means you’ve captured their interest. Take advantage of that.
 
-![](/images/asset-7.png)
+![How to write better blog posts](/images/asset-7.png "Call to action")
 
 What would you like them to do next: read more of your impeccable insights? Buy a cool product you’re selling? Get in touch with you?
 
