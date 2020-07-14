@@ -23,13 +23,11 @@ For a content marketing strategy to work, the content itself needs to be captiva
 
 If your blogs aren’t being read, don’t despair. Here are some simple tips on how to write better blog posts. Follow these steps and you’ll have readers devouring your blogs in no time.
 
-![](/images/asset-2.png)
+![](/images/asset-1.png)
 
 ### **Purpose**
 
 Before you start clacking away at that keyboard, spend some time defining the purpose of your blog. It will help to refine your writing and will make the reading experience more enjoyable.
-
-![How to write better blog posts](/images/asset-1.png "Purpose")
 
 Take this particular blog as an example. Its purpose is to tell you that a) I understand how to write a good blog post, and b) you should [hire me](https://www.rebeca.co.uk/contact/) to write your blogs. Sneaky, eh?
 
