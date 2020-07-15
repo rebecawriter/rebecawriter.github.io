@@ -9,6 +9,8 @@ categories: ''
 ---
 ![](/images/asset-8.png)
 
+By [Rebeca Moss](https://www.rebeca.co.uk/)
+
 You spent ages writing that last blog post, but when you checked the analytics, hardly anyone had read it.
 
 Maybe you optimised your blog around the wrong keyword, maybe you didn’t do enough to promote it or (brace yourself) …
@@ -63,7 +65,7 @@ Nobody likes a lecture, not even people attending an actual lecture.
 
 ![How to write better blog posts](/images/asset-3.png "Clarity")
 
-Most of your readers are likely on their lunch break, on public transport or on the toilet. Hardly the right time to be wading through dense blocks of text.
+Most of your readers are likely on their lunch break, on public transport or on the toilet*. Hardly the right time to be wading through dense blocks of text.
 
 If you can provide a clearly written blog post, your readers will thank you. With that in mind, keep your language simple, accessible and to the point.
 
